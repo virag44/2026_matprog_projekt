@@ -1,0 +1,28 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+n = 10
+x = np.arange(n)
+y = [5,6,6,6,7,8,9,9,10,10]
+
+# x feliratok
+x_labels = ['Magyarország','Belgium','Ausztrália','Csehország','Ausztria',
+            'Németország','Svédország','Izland','Dánia','Hollandia']
+
+y_labels = ['177cm','178cm','178cm','178cm','179cm','180cm','181cm','181cm','182cm','182cm' ]
+
+
+# oszlopdiagram
+plt.bar(x, y, color='#a357b8')
+
+# x tengely feliratok
+plt.xticks(x, x_labels, rotation=45, ha='right')
+plt.yticks(y, y_labels)
+
+
+plt.xlabel("Országok")
+plt.ylabel("Magasságok")
+
+
+plt.plot
+
