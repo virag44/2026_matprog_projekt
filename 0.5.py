@@ -1,5 +1,16 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+
+def expected_height(m_height,f_height,boy=True):
+  if boy==True:
+    m=(m_height+f_height+13)/2
+    return f'{m}cm a várható magasság, ez azt jelenti hogy a gyerek {m-10}-{m+10} centiméter közötti magas lesz'
+  else:
+    m=(m_height+f_height-13)/2
+    return f'{m}cm a várható magasság, ez azt jelenti hogy a gyerek {m-10}-{m+10} centiméter közötti magas lesz'
+expected_height(155,185,False)
 
 x_labels = []
 y_labels = []
