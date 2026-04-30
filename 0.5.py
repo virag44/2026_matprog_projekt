@@ -12,6 +12,10 @@ def expected_height(m_height,f_height,boy=True):
     return f'{m}cm a várható magasság, ez azt jelenti hogy a gyerek {m-10}-{m+10} centiméter közötti magas lesz'
 expected_height(155,185,False)
 
+heights = pd.read_excel('magassagok.xlsx')
+sns.boxplot(x='Kategória', y='Érték', data=heights )
+plt.show()
+
 x_labels = []
 y_labels = []
 y = []
