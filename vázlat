@@ -1,9 +1,0 @@
-#Projekt felépítése első vázlat 
-#bevezetésképpen a kevésbé pontos magasság becslő függvény 
-#kicsit pontosabb függvény erre, az egy fokkal bonyolultabb
-#diagram top 10/15 ország ahol a legmagasabbak az emberek
-#ha található érzékelhető kapocs top 10/15 legstresszesebb ország között akkor arra is kitérünk
-# becslés országos szinten erről 
-# ha ilyen nincs az édesanya kortizol szintje és gyermeke magassága közötti kapcs. alapján becslés 
-# kb teremnyi minta alapján a magasságot lehet oszlop diagram, Venn diagram, boxplot stb. ábrázolni megemlíthető hogy ezek hogyan működnének ha sorban mennénk a teremben ülő hallgatókon és mindenkit megkérdeznénk hogy milyen magas (nyilván ezt nem tesszük meg csak ilyen mi lenne ha…)
-#innen várok szívesen még bővítést és javítást ha valami megvalósíthatatlan, butaság, nem érthető vagy hibásan írtam valamit
