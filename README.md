@@ -1,6 +1,6 @@
 # 2026_matprog_projekt – Emberek magasságának elemzése
 
-## Projekt leírás
+## Projekt leírás:
 
 Ez a projekt az emberek magasságának elemzésével foglalkozik Python segítségével, különböző statisztikai módszerek és vizualizációk alkalmazásával.
 
