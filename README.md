@@ -39,12 +39,12 @@ Végül nagyobb adathalmazokon vizsgálja a projekt a stressz és a magasság k�
 
 A `project_sources` mappában találhatók:
 
-* 10shortestcountries.txt
+* Least-stressed.txt
 * Exatlonheights.xlsx
-* leaststressedcountries.txt
-* moststressedcountries.txt
-* top10tallestcountryfemale.txt
-* top10tallestcountrymale.txt
+* Most-stressed.txt
+* Top15-shortest.txt
+* Top10-tallest-men.txt
+* Top10-tallest-women.txt
 
 ---
 
