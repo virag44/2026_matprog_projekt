@@ -1,11 +1,11 @@
-Magyarország,177cm,5
-Belgium,178cm,6
-Ausztrália,178cm,6
-Csehország,178cm,6
-Ausztria,179cm,7
-Németország,180cm,8
-Svédország,181cm,9
-Izland,181cm,9
-Dánia,182cm,10
-Hollandia,182cm,10
+Magyarország,177cm,1
+Belgium,178cm,2
+Ausztrália,178cm,2
+Csehország,178cm,2
+Ausztria,179cm,3
+Németország,180cm,4
+Svédország,181cm,5
+Izland,181cm,5
+Dánia,182cm,6
+Hollandia,182cm,6
 
